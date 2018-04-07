@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SetAlarm</string>
+    <string name="welcome_text">Welcome to the alarm setter, please fill the spaces with the data required</string>
+    <string name="hour">Insert hour (24 hour format)</string>
+    <string name="insrt_mssg">Insert a Message</string>
+    <string name="mssg_hint">Enter Your Message</string>
+    <string name="set_alarm">Set Alarm</string>
+</resources>
